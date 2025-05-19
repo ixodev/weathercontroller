@@ -1,4 +1,4 @@
 # WeatherController
 
-Voici le repo du code source pour le projet d'enseignement scientifique
-A chaque update je le mets en ligne
+A simple Weather Station made with an Arduino, a LCD and a BME680 environmental sensor by DFRobot
+Required dependencies: LiquidCrystal + DFRobot_BME680
